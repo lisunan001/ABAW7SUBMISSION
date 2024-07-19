@@ -1,0 +1,2 @@
+# ABAW7SUBMISSION
+AIPL-BME-SEU Code for ABAW CER subchallenge
